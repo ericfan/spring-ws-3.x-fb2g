@@ -1,1 +1,1 @@
-# spring-ws-fb2g
+# spring-ws-3.x-fb2g
